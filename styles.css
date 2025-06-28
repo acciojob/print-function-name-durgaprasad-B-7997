@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+      padding-top: 100px;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    button {
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
